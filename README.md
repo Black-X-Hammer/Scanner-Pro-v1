@@ -21,3 +21,30 @@ Technologies Used
 ⸻
 
 Installation
+git clone https://github.com/Black-X-Hammer/Scanner-Pro-v1.git
+
+
+
+------
+Usage
+
+
+
+python3 scanner.py -t 127-x-x-x
+
+---
+scan specific ports
+
+python3 scanner.py -t 127.x.x. -p 20-100
+
+-----------------------------------------------------------------------------------------------------------------------
+
+This tool is created for educational purposes only.
+Do not use it on systems without permission.
+
+⸻
+
+Author
+
+-anonymous
+:::
