@@ -1,11 +1,9 @@
-<img width="978" height="242" alt="Screenshot from 2026-04-09 18-46-23" src="https://github.com/user-attachments/assets/50187d73-3c6c-491a-bb98-2f364d92293b" />
-
 
 
 
 
 # Scanner-Pro-v1
-A Python-based network scanner that demonstrates port scanning, multithreading, and basic reconnaissance techniques used in cyberse
+A Python-based network scanner that demonstrates port scanning, multithreading, and basic reconnaissance techniques
 
 
 
